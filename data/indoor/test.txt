@@ -1,0 +1,7 @@
+indoor/JPEGImages/17.jpg indoor/Annotations/17.xml
+indoor/JPEGImages/18.jpg indoor/Annotations/18.xml
+indoor/JPEGImages/19.jpg indoor/Annotations/19.xml
+indoor/JPEGImages/20.jpg indoor/Annotations/20.xml
+indoor/JPEGImages/21.jpg indoor/Annotations/21.xml
+indoor/JPEGImages/22.jpg indoor/Annotations/22.xml
+indoor/JPEGImages/23.jpg indoor/Annotations/23.xml
